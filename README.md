@@ -20,7 +20,7 @@ Output:
   "required_action": "Prepare for annual compliance audit.",
   "owner_role": "Security_lead"
 }
-
+```
 **Demo:**
 <img width="397" height="18" alt="image" src="https://github.com/user-attachments/assets/5a466902-bb3b-4def-af75-c5a5474c20a1" />
 <img width="946" height="140" alt="image" src="https://github.com/user-attachments/assets/63b2a557-61ee-4faf-b84b-dcded23c33a3" />
